@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-	printf("aaab\n");
+	printf("bbb\n");
 }
