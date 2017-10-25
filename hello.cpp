@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-	printf("ccc\n");
+	printf("1111\n");
 }
